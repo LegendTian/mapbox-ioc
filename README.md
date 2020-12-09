@@ -139,11 +139,10 @@
   站点的根目录中还应该包含video文件夹，video中的视频用于应急页面左侧。
 
 <h3 id="example-5">5、项目截图</h3>
-<img src="./project_img/IOC-01.jpg">
-<img src="./project_img/IOC.jpg">
-<img src="./project_img/IOC-01门户.png">
-<img src="./project_img/IOC-02总览.png">
-<img src="./project_img/IOC-02总览选中.png">
-<img src="./project_img/IOC-03经济.png">
-<img src="./project_img/IOC-04企业.png">
-<img src="./project_img/IOC-07应急.png">
+<img src="http://xiangis.com:8080/project_img/IOC-01.jpg">
+<img src="http://xiangis.com:8080/project_img/IOC-01门户.png">
+<img src="http://xiangis.com:8080/project_img/IOC-02总览.png">
+<img src="http://xiangis.com:8080/project_img/IOC-02总览选中.png">
+<img src="http://xiangis.com:8080/project_img/IOC-03经济.png">
+<img src="http://xiangis.com:8080/project_img/IOC-04企业.png">
+<img src="http://xiangis.com:8080/project_img/IOC-07应急.png">
