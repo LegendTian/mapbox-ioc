@@ -1,9 +1,12 @@
-
-## 智慧泽州管理运营中心
+## 智慧城市管理运营中心
 1、[技术栈介绍](#example-1)
+
 2、[项目结构](#example-2)
+
 3、[新页面添加流程](#example-3)
+
 4、[打包发布](#example-4)
+
 5、[项目截图](#example-5)
 
 
@@ -134,3 +137,13 @@
 
   运行"npm run build"，打包完毕后将 dist 文件夹中的所有文件（注意：不是dist文件夹，而是文件夹内容）拷贝至站点根目录，
   站点的根目录中还应该包含video文件夹，video中的视频用于应急页面左侧。
+
+<h3 id="example-5">5、项目截图</h3>
+<img src="./project_img/IOC-01.jpg">
+<img src="./project_img/IOC.jpg">
+<img src="./project_img/IOC-01门户.png">
+<img src="./project_img/IOC-02总览.png">
+<img src="./project_img/IOC-02总览选中.png">
+<img src="./project_img/IOC-03经济.png">
+<img src="./project_img/IOC-04企业.png">
+<img src="./project_img/IOC-07应急.png">
